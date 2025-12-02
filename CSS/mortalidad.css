@@ -1,0 +1,13 @@
+main h2 {
+    padding-left: 10%;
+}
+main section {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+main section img {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
